@@ -7,7 +7,7 @@ FitStart by Agastya is a website dedicated to helping beginners start their fitn
 - Beginner-friendly workout programs
 - Step-by-step exercise guides
 - Tips for form, consistency, and progress tracking
-- Simple and effective routines for different fitness goals
+- Simple and effective routines for fitness goals
 
 ## Getting Started
 1. Visit the homepage to explore workout programs.
