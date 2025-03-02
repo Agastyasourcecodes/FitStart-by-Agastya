@@ -27,7 +27,7 @@ FitStart by Agastya is a website dedicated to helping beginners start their fitn
 If you'd like to contribute, feel free to submit a pull request or report issues to improve the platform.
 
 ## Contact
-For any queries or suggestions, reach out at [your email or social media].
+For any queries or suggestions, reach out at agastyamaury123@gmail.com
 
 ---
 Start your fitness journey today with **FitStart by Agastya**!
